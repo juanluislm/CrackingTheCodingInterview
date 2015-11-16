@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379263233 source:c:\c+\coding interview\codeagain\p5.7\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1378776684 source:c:\c+\coding interview\codeagain\p4.6\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

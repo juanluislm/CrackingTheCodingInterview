@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1379511479 source:c:\c+\coding interview\codeagain\p9.8a\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<iterator>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1378775801 source:c:\c+\coding interview\codeagain\p4.4\main.cpp
+	<iostream>
+	<vector>
+	<list>
+
