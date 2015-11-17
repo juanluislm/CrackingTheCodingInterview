@@ -1,4 +1,4 @@
-# CrackingTheCodingInterview
+# Cracking the Coding Interview (5th Edition)
 As far as I am aware, there are no solutions to the book "Cracking the Coding Interview" by Gayle Laakmann. 
 Therefore, these are my solutions. Feel free to compare yours with mine and provide any feedback!
 
