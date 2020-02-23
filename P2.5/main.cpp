@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//hola Yonaiker! Te amo <3
 struct Node{
     int value;
     Node *next;
